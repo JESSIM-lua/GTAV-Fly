@@ -41,4 +41,3 @@ Contributions to this script are welcome. If you wish to improve the script or p
 ## License
 
 This script is released under a public domain license. Feel free to use, modify, and distribute it as you see fit.
-
