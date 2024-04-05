@@ -9,6 +9,10 @@ This script enables players on GTA V servers using FiveM to activate a flight mo
 - Real-time notifications to inform players about the remaining flight time.
 - Temporary immunity from damage while flying.
 
+
+https://github.com/JESSIM-lua/GTAV-Fly/assets/145444152/3516f364-84a1-4eb9-9079-56406c74f974
+
+
 ## Prerequisites
 
 - FiveM server with the ESX framework installed.
